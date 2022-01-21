@@ -139,3 +139,11 @@ section.projects h2 {
 section.projects {
   padding: 5rem;
 }
+@media only screen and (max-width: 900px) {
+  body {
+    background-image: url("../Images/body-bg.png");
+  }
+  p {
+    font-weight: 400;
+  }
+}
