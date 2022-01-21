@@ -78,7 +78,7 @@
   font-size: 25px;
   line-height: 3rem;
   padding-bottom: 5rem;
-  color: var(--text-color);
+  color: grey;
 }
 
 section.profiles .container-row {
@@ -138,12 +138,4 @@ section.projects h2 {
 }
 section.projects {
   padding: 5rem;
-}
-@media only screen and (max-width: 900px) {
-  body {
-    background-image: url("../Images/body-bg.png");
-  }
-  p {
-    font-weight: 400;
-  }
 }
